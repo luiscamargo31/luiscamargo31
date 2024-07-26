@@ -2,7 +2,7 @@
 
 Meu nome é Luis Henrique
 
--Estou estudando na Alura
+-Estou estudando na [Alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagem javaScript
 
@@ -14,3 +14,5 @@ Meu nome é Luis Henrique
 l.camargo31@escola.pr.gov.br
 
 @luisxx_trem_01
+
+![](https://media1.tenor.com/m/LO5LF4ge6jgAAAAC/teq-ultimate-gohan-teen-gohan.gif)
